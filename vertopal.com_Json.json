@@ -1,0 +1,79 @@
+{
+  "total_size": 6,
+  "type_id": 2,
+  "offset": 0,
+  "products": [
+    {
+      "id": 1,
+      "name": "JEE Mains Physics Revision",
+      "description": "This JEE Physics Revision course aims to reinforce essential concepts and problem-solving techniques for students preparing for the JEE Main and Advanced exams. Covering core topics such as Mechanics, Thermodynamics, Waves, Optics, Electricity, Magnetism, and Modern Physics, the course emphasizes analytical thinking and the application of principles through problem-solving strategies. Students engage in interactive sessions, receive comprehensive study materials, and complete regular assignments to enhance their understanding. Mock tests simulate exam conditions, while previous year paper analyses help identify important topics. The course also includes effective revision techniques, progress tracking, and motivational support, culminating in a final review to focus on high-weightage subjects for optimal exam performance.",
+      "price": 12000,
+      "stars": 4,
+      "img": "images/4ffe0c8f5b9cc98b18a8fa9e1135a3e7.jpeg",
+      "location": "Hyderabad, Bangalore, Chennai",
+      "created_at": "2021-11-17 10:09:08",
+      "updated_at": "2024-07-20 04:47:26",
+      "type_id": 2
+    },
+    {
+      "id": 2,
+      "name": "JEE Mains Chemistry Revision",
+      "description": " This JEE Mains Chemistry Revision course is designed to solidify foundational concepts and enhance problem-solving skills for students preparing for the JEE Mains examination. It encompasses key areas such as Physical Chemistry, Inorganic Chemistry, and Organic Chemistry, ensuring a balanced understanding across all three branches. Students delve into essential topics like stoichiometry, thermodynamics, chemical kinetics, and equilibrium in Physical Chemistry. Inorganic Chemistry covers periodic trends, coordination compounds, and the properties of elements, while Organic Chemistry emphasizes reaction mechanisms, functional groups, and synthesis. The course incorporates regular quizzes and mock tests to reinforce learning and improve time management. Comprehensive study materials, including notes and formula sheets, are provided for effective revision. Interactive doubt-clearing sessions foster a deeper understanding of complex topics, while previous year question paper analyses highlight important concepts. Assignments encourage practice and retention, and progress tracking helps students monitor their improvement. The course also includes strategies for effective revision and stress management, culminating in a final review of high-weightage topics to maximize performance in the JEE Mains exam. Through this structured approach, students gain confidence and clarity in their Chemistry knowledge, ensuring they are well-prepared for the challenges of the exam.",
+      "price": 15000,
+      "stars": 5,
+      "img": "images/5dfa53f0783af1e631ae6d7f8379e2b5.jpg",
+      "location": "Bangalore, Hyderabad",
+      "created_at": "2021-11-17 10:10:43",
+      "updated_at": "2023-11-08 10:34:46",
+      "type_id": 2
+    },
+    {
+      "id": 6,
+      "name": "JEE Mains Mathematics Revision",
+      "description": "This JEE Mains Mathematics course is meticulously crafted to reinforce fundamental concepts and enhance problem-solving skills essential for success in the JEE Mains examination. Covering critical areas such as Algebra, Calculus, Geometry, and Trigonometry, the course ensures a comprehensive understanding of the subject. Key topics in Algebra include quadratic equations, sequences, and series, while Calculus focuses on limits, derivatives, and integrals. Geometry covers coordinate geometry, lines, and conic sections, along with their applications. Trigonometry emphasizes identities, equations, and the properties of triangles. The course includes regular quizzes and mock tests to assess understanding and improve time management skills. Comprehensive study materials, including detailed notes and formula sheets, are provided to facilitate effective revision. Interactive doubt-clearing sessions allow students to tackle complex concepts with ease, and previous year question paper analyses identify high-yield topics. Assignments promote consistent practice, while progress tracking keeps students informed of their growth. The course also incorporates strategies for efficient revision and stress management, culminating in a final review of important topics to maximize performance on exam day. Through this structured approach, students build confidence in their mathematical abilities, preparing them thoroughly for the JEE Mains challenges.",
+      "price": 18000,
+      "stars": 4,
+      "img": "images/1d482dfa006b8dd4eaefe9f48775a4b2.jpg",
+      "location": "Chennai",
+      "created_at": "2021-12-23 15:03:24",
+      "updated_at": "2023-11-08 10:35:36",
+      "type_id": 2
+    },
+    {
+      "id": 7,
+      "name": "EAMCET Rapid Revision",
+      "description": " This Course covers critical subjects such as Physics, Chemistry, and Mathematics, the EAMCET Revision course emphasizes a balanced approach to understanding essential topics. In Physics, students explore mechanics, thermodynamics, and waves, while Chemistry focuses on organic, inorganic, and physical chemistry principles. Mathematics topics include algebra, calculus, geometry, and statistics. The course features interactive sessions that promote doubt clarification and encourage active participation. Regular mock tests and quizzes simulate exam conditions, helping students develop effective time management strategies. Comprehensive study materials, including detailed notes and formula sheets, are provided to aid in effective revision. Students engage in thorough analyses of previous years' question papers to identify high-yield topics and trends. Assignments are designed to reinforce learning and ensure consistent practice. Progress tracking mechanisms allow students to monitor their performance and areas needing improvement. The course also incorporates stress management techniques and strategies for efficient revision, culminating in a final review session focused on essential topics. By following this structured approach, students gain confidence in their knowledge, ensuring they are well-prepared for the EAMCET examination. Through dedicated preparation, students can maximize their chances of achieving their desired scores and securing admission to their preferred institutions.",
+      "price": 10000,
+      "stars": 5,
+      "img": "images/9a27af7a8ac9251757365fa19970ab99.jpg",
+      "location": "Hyderabad",
+      "created_at": "2021-12-23 15:04:49",
+      "updated_at": "2023-11-08 10:36:26",
+      "type_id": 2
+    },
+    {
+      "id": 10,
+      "name": "NDA Series",
+      "description": "This NDA Exam Revision course is designed to equip students with the necessary skills and knowledge to excel in the National Defence Academy (NDA) entrance examination. Covering crucial subjects such as Mathematics, General Knowledge, English, and Science, the course emphasizes a comprehensive understanding of the exam syllabus. In Mathematics, students focus on topics like algebra, geometry, trigonometry, and statistics to build a strong foundation. The General Knowledge section covers current affairs, history, geography, and political science, enhancing students' awareness of the world around them. English language skills are developed through grammar, comprehension, and vocabulary exercises, ensuring effective communication. Interactive sessions promote active participation and allow for real-time doubt resolution. Regular mock tests simulate the actual exam environment, helping students manage time effectively and build confidence. Comprehensive study materials, including summaries and practice questions, are provided for thorough revision. Students analyze previous years' NDA papers to identify frequently asked questions and important topics. Assignments encourage consistent practice and reinforce learning outcomes. Progress tracking tools help students monitor their performance and identify areas for improvement. The course also incorporates physical fitness tips and mental preparation techniques, crucial for success in the NDA selection process. By focusing on a structured revision approach, students enhance their readiness for the NDA exam, positioning themselves for successful admission into the prestigious academy and a future in the armed forces.",
+      "price": 5000,
+      "stars": 4,
+      "img": "images/0051e5876c365ebc0385e52e11718b42.jpg",
+      "location": "Hyderabad",
+      "created_at": "2021-12-27 06:29:47",
+      "updated_at": "2023-11-08 10:31:21",
+      "type_id": 2
+    },
+    {
+      "id": 11,
+      "name": "JEE Advanced PYQs",
+      "description": "This JEE Advanced Previous Year Questions (PYQ) course is designed to help students effectively prepare for one of the most challenging engineering entrance exams in India. The course focuses on analyzing past years' exam papers, enabling students to understand the exam pattern, question types, and marking schemes. By working through these PYQs, students can identify high-yield topics and areas that require more attention. The course covers key subjects, including Physics, Chemistry, and Mathematics, providing detailed explanations and solutions for each question. Regular quizzes and assessments track progress and reinforce learning. Additionally, interactive doubt-clearing sessions allow students to address specific challenges they encounter. Comprehensive study materials, including summaries and formula sheets, are provided for quick revision. The course also emphasizes time management strategies to help students navigate the exam efficiently. By familiarizing themselves with previous years' questions, students gain confidence and improve their problem-solving skills. This focused approach ensures a well-rounded preparation, maximizing students' chances of success in the JEE Advanced exam. Ultimately, the JEE Advanced PYQ course serves as a vital resource for students aiming for top ranks in one of India’s most competitive entrance examinations.",
+      "price": 2500,
+      "stars": 4,
+      "img": "images/b90ce63dc56c8071f83da5474bfc2274.jpg",
+      "location": "Hyderabad",
+      "created_at": "2021-12-27 06:35:34",
+      "updated_at": "2024-08-09 06:58:54",
+      "type_id": 2
+    }
+  ]
+}
